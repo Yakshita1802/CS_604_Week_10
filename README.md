@@ -147,6 +147,7 @@ Q2.2
 10 Points
 Please upload a screenshot which shows both (1) how you build the Xnor gate and (2) the message of "Level successfully completed".
 
+<img width="1798" alt="Screenshot 2022-11-17 at 4 25 35 PM" src="https://user-images.githubusercontent.com/101899906/202563533-b8ef786b-19a3-4e43-81d8-0aa040d1f373.png">
 
 
 
@@ -154,6 +155,7 @@ Q2.3
 12 Points
 Please upload a screenshot which shows both (1) how you build the Left Shift gate and (2) the message of "Level successfully completed".
 
+<img width="1798" alt="Screenshot 2022-11-17 at 4 25 15 PM" src="https://user-images.githubusercontent.com/101899906/202563552-6932c5b7-2672-447c-8ef8-28f4c4fd0787.png">
 
 
 
