@@ -161,4 +161,4 @@ Q2.4
 8 Points
 [Moved to extra points]Please upload a screenshot which shows both (1) how you build the Max
 gate and (2) the message of "Level successfully completed".
-![image](https://user-images.githubusercontent.com/101899906/202526439-1b00cfe9-ea32-442e-b1df-1068d72a8cd1.png)
+
