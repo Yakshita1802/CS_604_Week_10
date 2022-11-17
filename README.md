@@ -164,3 +164,6 @@ Q2.4
 [Moved to extra points]Please upload a screenshot which shows both (1) how you build the Max
 gate and (2) the message of "Level successfully completed".
 
+<img width="1798" alt="Screenshot 2022-11-17 at 4 37 51 PM" src="https://user-images.githubusercontent.com/101899906/202565603-3d9bd982-a1fe-4e55-9c51-5611d732fe34.png">
+
+
